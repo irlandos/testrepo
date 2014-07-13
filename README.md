@@ -11,7 +11,8 @@ testrepo
 2. But I like new stuff
 3. Whatever
 4. 
-**in asterisks*
+
+**in asterisks**
 
 |Col1|Col2|
 |----|----|
